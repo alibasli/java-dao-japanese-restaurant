@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/secure/MainPage.jsp=UTF-8
+encoding//WebContent/secure/MakeRezerve.jsp=UTF-8
+encoding//WebContent/secure/queryReservation.jsp=UTF-8
+encoding//WebContent/secure/yonetim/UpDelRezervation.jsp=UTF-8
